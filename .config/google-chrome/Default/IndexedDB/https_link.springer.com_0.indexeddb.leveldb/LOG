@@ -1,0 +1,6 @@
+2022/07/27-10:17:35.181 15ac Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb since it was missing.
+2022/07/27-10:17:35.192 15ac Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_link.springer.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/27-10:18:27.290 147e Level-0 table #5: started
+2022/07/27-10:18:27.292 147e Level-0 table #5: 20119 bytes OK
+2022/07/27-10:18:27.295 147e Delete type=0 #3
+2022/07/27-10:18:27.295 147e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

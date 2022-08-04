@@ -1,0 +1,6 @@
+2022/06/10-11:20:13.285 d6f Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_royaloakindia.com_0.indexeddb.leveldb since it was missing.
+2022/06/10-11:20:13.290 d6f Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_royaloakindia.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/10-11:24:50.842 d6f Level-0 table #5: started
+2022/06/10-11:24:50.845 d6f Level-0 table #5: 12845 bytes OK
+2022/06/10-11:24:50.848 d6f Delete type=0 #3
+2022/06/10-11:24:50.848 d6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

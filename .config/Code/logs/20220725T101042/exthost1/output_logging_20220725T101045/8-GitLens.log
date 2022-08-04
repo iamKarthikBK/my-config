@@ -1,0 +1,46 @@
+[2022-07-25 05:14:47.733] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:ecc/docs/cycles.rst • There is no path ecc/docs/cycles.rst in the commit • 29 ms
+
+[2022-07-25 05:14:47.734] /home/karthik/.vscode/extensions/eamodio.gitlens-12.1.2/dist/webpack:/gitlens/src/env/node/git/shell.ts:210:6
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:ecc/docs/cycles.rst
+fatal: There is no path ecc/docs/cycles.rst in the commit
+
+[2022-07-25 05:15:13.439] [GIT  ] [/home/karthik/incore/crypto-accel] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/docs/cycles.rst • bad revision '0000000000000000000000000000000000000000-' • 28 ms
+
+[2022-07-25 05:21:00.820] [GIT  ] [/home/karthik/incore/crypto-accel] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/docs/cycles.rst • bad revision '0000000000000000000000000000000000000000-' • 19 ms
+
+[2022-07-25 05:23:05.196] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n3 -m -L 43,43:ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 43,43:ecc/docs/cycles.rst • file ecc/docs/cycles.rst has only 42 lines • 121 ms
+
+[2022-07-25 05:23:05.331] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n4 -m -L 43,43:ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 43,43:ecc/docs/cycles.rst • file ecc/docs/cycles.rst has only 42 lines • 36 ms
+
+[2022-07-25 05:23:10.920] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n3 -m -L 43,43:ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 43,43:ecc/docs/cycles.rst • file ecc/docs/cycles.rst has only 42 lines • 108 ms
+
+[2022-07-25 05:23:11.047] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n4 -m -L 43,43:ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 43,43:ecc/docs/cycles.rst • file ecc/docs/cycles.rst has only 42 lines • 31 ms
+
+[2022-07-25 05:26:40.432] [GIT  ] [/home/karthik/incore/crypto-accel] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/hw/misc/TB.bsv • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/hw/misc/TB.bsv • bad revision '0000000000000000000000000000000000000000-' • 51 ms
+
+[2022-07-25 05:27:18.437] [GIT  ] [/home/karthik/incore/crypto-accel] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/docs/cycles.rst • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- ecc/docs/cycles.rst • bad revision '0000000000000000000000000000000000000000-' • 30 ms
+
+[2022-07-25 07:56:20.479] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:ecc/README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:ecc/README.md • There is no path ecc/README.md in the commit • 106 ms
+
+[2022-07-25 07:56:20.482] /home/karthik/.vscode/extensions/eamodio.gitlens-12.1.2/dist/webpack:/gitlens/src/env/node/git/shell.ts:210:6
+Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:ecc/README.md
+fatal: There is no path ecc/README.md in the commit
+
+[2022-07-25 07:57:30.019] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n3 -m -L 55,55:ecc/README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 55,55:ecc/README.md • file ecc/README.md has only 54 lines • 40 ms
+
+[2022-07-25 07:57:32.069] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n3 -m -L 55,55:ecc/README.md • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 55,55:ecc/README.md • file ecc/README.md has only 54 lines • 28 ms
+
+[2022-07-25 11:08:27.717] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthik/incore/crypto-accel/aes/hw/aes_registers/src/AES.bsv'
+[2022-07-25 11:08:27.924] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthik/incore/crypto-accel/aes/hw/aes_registers/src/AES.bsv'
+[2022-07-25 11:08:28.242] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthik/incore/crypto-accel/aes/hw/aes_registers/src/AES.bsv'
+[2022-07-25 11:08:28.967] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthik/incore/crypto-accel/aes/hw/aes_registers/src/AES.bsv'
+[2022-07-25 11:08:33.784] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthik/incore/crypto-accel/ecc/README.md'
+[2022-07-25 11:08:38.535] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthik/incore/crypto-accel/ecc/hw/manager.sh'
+[2022-07-25 11:08:39.441] Function._handleError
+EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/karthik/incore/crypto-accel/ecc/hw/misc/TB.bsv'

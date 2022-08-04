@@ -1,0 +1,17 @@
+mk_test:
+  inputs:
+    start: CLK                            I     1 clock
+RST_N                          I     1 reset
+ma_request_ops_priv_key        I   233 reg
+EN_ma_request_ops              I     1
+  outputs:
+    RDY_ma_request_op: RDY_ma_request_op
+    mv_pubkey_fst: mv_pubkey_fst
+    RDY_mv_pubkey_fst: RDY_mv_pubkey_fst
+    mv_pubkey_snd: mv_pubkey_snd
+    RDY_mv_pubkey_snd: RDY_mv_pubkey_snd
+
+CLK                            I     1 clock
+RST_N                          I     1 reset
+ma_request_ops_priv_key        I   233 reg
+EN_ma_request_ops              I     1

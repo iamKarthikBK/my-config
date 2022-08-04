@@ -1,0 +1,210 @@
+{
+   "checksum": "a1294859054ee904eaf4c6d27d20df2e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13285687582418636",
+            "guid": "8e8778b3-71aa-4476-8dcc-881437516d0f",
+            "id": "5",
+            "name": "Personal mail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox"
+         }, {
+            "date_added": "13298626787416821",
+            "guid": "b6f4f821-6013-4463-9514-0f2f7fc712c0",
+            "id": "6",
+            "name": "Work mail",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/"
+         }, {
+            "date_added": "13285740569465996",
+            "guid": "72ba083a-9d80-4c75-bc69-b79a7ffcf708",
+            "id": "8",
+            "name": "InCore Slack",
+            "type": "url",
+            "url": "https://app.slack.com/client/TBLSBVBFV/CBLVD1XB4"
+         }, {
+            "date_added": "13290674698264685",
+            "guid": "ba7b2956-78bc-4184-b137-d53e947ef12b",
+            "id": "11",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13297153170299240",
+            "guid": "6f6a2f77-3019-4ed1-8bb1-d848b57ba62b",
+            "id": "13",
+            "name": "Learning Bluespec",
+            "type": "url",
+            "url": "http://wiki.bluespec.com/Home"
+         }, {
+            "date_added": "13297410482804584",
+            "guid": "5cc955c6-b71f-4d0f-a67a-66d489005e87",
+            "id": "14",
+            "name": "Spotify – Web Player",
+            "type": "url",
+            "url": "https://open.spotify.com/"
+         }, {
+            "date_added": "13299247815307625",
+            "guid": "e56f6278-029d-4a11-b8aa-a921ea636e0e",
+            "id": "31",
+            "name": "ClickUp | Everything",
+            "type": "url",
+            "url": "https://app.clickup.com/"
+         }, {
+            "date_added": "13299743778025146",
+            "guid": "a7dc419f-e710-4f7f-9d59-81ebba39998e",
+            "id": "33",
+            "name": "BSV Reference Guide",
+            "type": "url",
+            "url": "http://csg.csail.mit.edu/6.S078/6_S078_2012_www/resources/reference-guide.pdf"
+         }, {
+            "date_added": "13299743787916744",
+            "guid": "be90b02e-e05b-4495-a4a1-22c9a240ff1f",
+            "id": "34",
+            "name": "BSV by Example",
+            "type": "url",
+            "url": "http://csg.csail.mit.edu/6.S078/6_S078_2012_www/resources/bsv_by_example.pdf"
+         }, {
+            "date_added": "13303372751062305",
+            "guid": "c0f7428b-f27a-4fa5-911b-2d55412dd502",
+            "id": "44",
+            "name": "Weava: Organize your Research",
+            "type": "url",
+            "url": "https://www.weavatools.com/app/dashboard;cid=-N7pAlmMQrVPJaKIp-rf"
+         }, {
+            "date_added": "13302780670924660",
+            "guid": "2ed94f51-bc53-4d5f-9e95-a899f4d3615a",
+            "id": "40",
+            "name": "Mutual Funds: Top Performing Mutual Funds in India | 5paisa",
+            "type": "url",
+            "url": "https://invest.5paisa.com/mutual-funds/"
+         }, {
+            "date_added": "13303372776397029",
+            "guid": "83da8f1a-e859-4f12-9c9d-4a466cc24686",
+            "id": "45",
+            "name": "Your Projects - Overleaf, Online LaTeX Editor",
+            "type": "url",
+            "url": "https://www.overleaf.com/project"
+         } ],
+         "date_added": "13299227252875668",
+         "date_modified": "13303372776397029",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13278745628150833",
+            "guid": "d2450a78-33db-4a14-bc9b-6e708f0f0617",
+            "id": "18",
+            "name": "Get your IELTS exam result here - Login now !– IELTS IDP India",
+            "type": "url",
+            "url": "https://www.ieltsidpindia.com/access/candidatelogin"
+         }, {
+            "date_added": "13280686610457404",
+            "guid": "a7047bcd-b045-4933-98de-bd78999ded4c",
+            "id": "19",
+            "name": "XADC",
+            "type": "url",
+            "url": "https://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf"
+         }, {
+            "date_added": "13283337023551920",
+            "guid": "a530e584-f936-42cb-b1e9-0c2db9929028",
+            "id": "20",
+            "name": "Electrical and Electronic Engineering ‒ Master ‐ EPFL",
+            "type": "url",
+            "url": "https://www.epfl.ch/education/master/programs/electrical-and-electronic-engineering/"
+         }, {
+            "date_added": "13283337053366473",
+            "guid": "a85d71ea-8685-44a8-899f-e03400408a0a",
+            "id": "21",
+            "name": "IS-Academia",
+            "type": "url",
+            "url": "https://isa.epfl.ch/imoniteur_ISAP/!farforms.htm?x=master"
+         }, {
+            "date_added": "13283456638355474",
+            "guid": "90d3afdf-9126-4cac-95b6-768f4745c3f4",
+            "id": "22",
+            "name": "Surrey",
+            "type": "url",
+            "url": "https://sits.surrey.ac.uk/live/sits.urd/run/siw_ipp_lgn.login?process=siw_ipp_app&code1=PFA61F0033D&code2=0017"
+         }, {
+            "date_added": "13284623090230969",
+            "guid": "957eac6d-6713-432c-b4a5-67a0b11b830a",
+            "id": "23",
+            "name": "slli",
+            "type": "url",
+            "url": "https://shakti.org.in/docs/risc-v-asm-manual.pdf"
+         }, {
+            "children": [ {
+               "date_added": "13297417000952320",
+               "guid": "d54f3e49-f335-4430-8849-c32bfd6c2ae0",
+               "id": "25",
+               "name": "TEAL by Chumbak Decorative Elephant Wrist Watch",
+               "type": "url",
+               "url": "https://www.chumbak.com/products/decorative-elephant-womens-wrist-watch"
+            }, {
+               "date_added": "13297418655869995",
+               "guid": "d70fa907-8638-49e9-9d97-fe5bdc6be0ab",
+               "id": "26",
+               "name": "Junie is a star",
+               "type": "url",
+               "url": "https://in.star-naming.com/cart"
+            }, {
+               "date_added": "13297427476504454",
+               "guid": "30f4e637-b752-4791-8422-07c3596b2cc5",
+               "id": "27",
+               "name": "Chocolate Box",
+               "type": "url",
+               "url": "https://smoor.in/collections/chocolate-boxes/products/love-unlimited?variant=40265259352201"
+            }, {
+               "date_added": "13297427597313445",
+               "guid": "314a576e-f533-4dfa-b01d-4f83921f10aa",
+               "id": "28",
+               "name": "Birthday Hamper (Large) – Smoor",
+               "type": "url",
+               "url": "https://smoor.in/collections/all-hampers/products/birthday-hamper-large?variant=39501557203081"
+            }, {
+               "date_added": "13297427971179247",
+               "guid": "e38d20ee-c7fc-4aa5-902e-3fb0f05205ab",
+               "id": "29",
+               "name": "Women's Sweatshirts & Hoodies | Zip Up Hoodies | H&M IN",
+               "type": "url",
+               "url": "https://www2.hm.com/en_in/women/shop-by-product/hoodies-sweatshirts.html?sort=stock&image-size=small&image=model&offset=0&page-size=144"
+            } ],
+            "date_added": "13297417021670739",
+            "date_modified": "13297427971179247",
+            "guid": "7a78c199-a4c3-47dc-88d8-ead294948aa0",
+            "id": "24",
+            "name": "Birthday Gifts",
+            "type": "folder"
+         }, {
+            "date_added": "13299765871048389",
+            "guid": "1c00aa68-e363-4c09-b6f9-2df187c422c0",
+            "id": "36",
+            "name": "How to fix \"network 'default' is not active\" error in libvirt",
+            "type": "url",
+            "url": "https://www.xmodulo.com/network-default-is-not-active.html"
+         } ],
+         "date_added": "13299227252875669",
+         "date_modified": "13300475900206993",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13299227252875671",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cv4BCt0BCIiBAhLWARI8CAISOAoGCgJibRABEDMaEgmABr0kUuUFACGABr0kUuUFADIYChYIAhHgCCo0UuUFABgAIQAAAAAAAAAAEjwIAhI4CgYKAmJkEAAQMxoSCYAGvSRS5QUAIYAGvSRS5QUAMhgKFggCEeAIKjRS5QUAGAAhAAAAAAAAAAAgAEjJ//iWpjBwyf/4lqYwkgFHCkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgJt3L1LlBQARgJt3L1LlBQAp1CkqNFLlBQAwgLfe+6Kq+QISACABKhhVY080TFZ0ZkhxejY4R1JyOERMUURBPT0S6wEIGRLmAQocR2xIc0FoSzQxTWU3VkZ4LzdtYjA5eHpqbTNRPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxuYjlrS3JnMGhKMUhLc2JSa01tYVlzRUlnVWI5dWV3enlqUmNIdWJFUFpmMnk0Z1hJQlkwNXNpRWI4LytpMXVtNTlZQmljUT09GAAgACgAMOyt+4v+6vcCOPnf6tiNMED53+rYjTBKHFNJeHk2bUVjTDFsSkYxRW0rZXNWckowQXJSbz1aHiIcaWh1azR3S2FjRTE4Nk50TjdtS3kzaHV4Q2xVPWWxkl2DEuwBCBgS5wEKHExLOEVIMFdpWVR0dXJYMEJibll5ZEdIZkNYdz0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMbjRPRjdsV0RXUWUxUVdsem1CY1lTM0tISWhnQjlveCs4ZDVwNU9SRmhJUmZkM2RGUUkxQmZla0ZQT1gyd3ByZEtPTEY0SVE9PRgAIAAoADDsrfuL/ur3AjjmgezYjTBA5oHs2I0wShxsVkIzQUtPTjN3eElkOVhYcWtGbW1tUGNTVXc9Wh8iHf44QUw1aHBQdDJQbFM3S3I3a0ZyRnV3azVFbnc9ZQAAAAAS7AEIExLnAQocMlovT0V2ekVhazdXTCtIdlpSMU5WTXc2VXBvPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxuVkZUUnlZWGtobmpXVEw2cWNKVVpNbi93NEpCc2FSZ0RISUY4UktjYzdzbit5emxiVmowdDU4bHVrejgvUExWZXZ3TWN0QT09GAAgACgAMPz/883Wy/QCOJnglK/PL0CZ4JSvzy9KHExNazhRQjNXOTFZdXQ0aWF6NnRndE9IMDJycz1aHyId3W80WXlKQTZnd1d5SHZ6TjdrQVlGMVFZcDZldz1lWRliCBLrAQgSEuYBChxOS0ZUSzcwekhpYmRzWEFSRlh5ZEI5RWdsTkU9EmZaOkFEcXRBWnpTRE1mRE5pOW91ckIrNlpESjV6TG5nVmQ2NExuMmJaN1FWd0hmaGFBMnlvOFVxWmhvYlJhcU1DNzdUMjBLT3dLZ0tVSDd5endEdWFrSUFkbmgxVzByKzcreXh3PT0YACAAKAAw/P/zzdbL9AI498vQkcgvQPfL0JHIL0ocQ3E3ZE8zWjNiaHJaZHN1TlZXZng1OW1XTTc0PVoeIhx3eGF1UXgwN2E5VUZ3Z2JOam1DaE0xZ3RGNVk9ZZ0Nr8cS7wEILRLqAQocNDlMSnBSVUcxN0h3QThCWjFabTZURVNEdStjPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxuSXRNcXFrVTRWZnl4T0JMbVJtVHNPZGtGWno0cSthQTVDbGY4RmtxU2JoL3dIVmc0VEtpaHdYVGlydk5qb1JGZ21XSEk5Zz09GAAgAigCMPnlsumomPkCOM634vCjMEDRt+LwozBKHEQyUzlOUURHS2xPcXFwSFBuN04xTlhoMFBPRT1aIiIg////92E3WDdxM2J2TFZyNkNKM3A5K3N1OHJrUWFxOD1lRD4J8hLsAQgXEucBChxxNXRFWmxzbGRCSTlxUFlwQnJCcVorUlJ4UTg9EmZaOkFEcXRBWnpTRE1mRE5pOW91ckIrNlpESjV6TG5LelZPVkJJRG54bmpYMmF2Sm9BVDJnSit0MWkweU05eUNoUlNQSURXamN0ZnVWcGhqbExiUENaeUR1UHRscWJjd08rRHVBPT0YACAAKAAw2uD//tD29AI4t7SchN4vQLe0nITeL0ocS2duMzE1bzlDVnVGTVhUYm0wajRXOWVkdVhNPVofIh39cEhabDNQS09KSDhYSWpyb000NXFVamtmWXdvPWUAAAAAEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFad1Zna0VRNFY1RUliZDN3UTd0KzFsODdyTTJhaE9jMEk2V3lxSWVpd1Bxa2h6RE1aUjFVbW9ZWFl3T1RtWE5COWVkSU5LNRgAIAAoADCGo6Tr1Z/4AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeUtRZGFmNDRHN1dNNjF2RG9IOWtjMk9PMldGY1FQOXQxN000YWNHQ01kZ09aWjl3VXlxaCs4RHZjU0ZVcTA5MTFySXBIQ2ppM1JmWGNRKy9ENmp5WGpjRk91c1E9PRgAIAAoADCGo6Tr1Z/4AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEu8BCCIS6gEKHCthT1Z2Vkd1b2d6dVlhRXkzbS81VUw2bHlsOD0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMbm9zT3ZRYXhUaCs4b3FNbmJPOXdaa25CNlMxbEVGWHBEcitUcE1DUzZ4b2hnY0ZmcHd0dVVQck9ROUQxYXlMWkpYWFA5SGc9PRgAIAIoAjCUhu2f5734AjiOx6quljBAu/DmpZgwShxwSFhTRlg5YXZTWXN1ZkVsY1g5Q2xZYjBnUzQ9WiIiIP///7poVmpYekYzbTBSUjFwNHN6cEtzU2dubTJ0OWs9ZQAAAAAS7AEIFBLnAQocRkdPbmFKaUFha0d6bEtKd053MkRQT0xoZ0ZJPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxuU1F6Yyswb01YTlB6OXc1aUVaNXFsRm5ZTjY3bUxpQk5majJGMUtOZ2hPMnBib2s2ZHMrbVdwRXVaYk14NWRsUDFMQzNmdz09GAAgACgAMMT1zoiLwPcCOMCQ/Z7ZL0DAkP2e2S9KHDBHbXdXU05DbGRReTFJOXRwVXJXUHUvSm1CVT1aHyId7lNuRHkxRzNNdTVjUzBJYjdHdXJwa3RMUnFhTT1lwHl1ExLsAQgdEucBChxHU3lIRHBydGwxU0YvUzIxUFh2cUVvMENUNFE9EmZaOkFEcXRBWnpTRE1mRE5pOW91ckIrNlpESjV6TG5TN3A0ZzZjRUhFUWlUcUtjbW55Znh4R0tuZm1KTDNQSFQrRHVoUnZWZHh4czIrWE9BNVYxRldPZjk5UnpKNUJWSmliMmNnPT0YACAAKAAwzrmT8abr9wI466iI3o0wQOuoiN6NMEocakFIdEpwdTB3KzV5c3ZhaW54MVRzYUs1VzA0PVofIh32ZjRjNllnbHZOUmcwN0tBdDloOVZtV2NJYkVzPWUsCrxyEu8BCCwS6gEKHC80aVpFY29ycmlXN09sQmhHSkkxNTFJTE1EOD0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMbitFSVZDOGRwMWZKek1Xd08wL2VPTk9CdjQ3QkYyMyswOTdWVFhFWjh4SXZ0WVh5T3pyNEhoSUpZZHczWGhtZkJxSllIdnc9PRgAIAMoAzCh/svhqJj5AjjY8eDwozBA6Lfh8KMwShw5RVFtdzBLRFhISndlZ2JJMjNMTkFUSndBM0U9WiIiIP///9R0TkpXUHl5UjE0MFR1aUc1MkJMam9VWVhCZ009ZQHk5BAS6wEIBRLmAQocNVZNdklRWjhINmtzVXJrUXhrdDZGcjZUc3Y4PRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxuSE5SZkQ3THRNYURlSGlvZkJ1WXh3OTBnVEsxTWZVbW55U3kzMEhPYVBiU3JpRk9leUR2dTBHMzdEWG9Pei9lWVNlZHVzZz09GAAgBCgEMID67a2uh/kCONLt5//hL0DGrfnaoTBKHGpEQVpLZUs4LzJYUzZpYW10aDJGdDhtWjkwQT1aHiIcNUVMZE1jTHBMZ1lDYmNzZ2RFWXNPSDR6Zk1JPWWLoIzREuwBCAYS5wEKHGdpdkx6RlJIT3pWQVRWM0orRkl4Q1pEeGJBWT0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMbllBMkVCSklscEh0RmpJTHhOOENnajVKaW5OQXBTN1hqZndJcWFPVlpEMUcwV0ozUURDakZ1aWFDekJjc0ZtLzdGQmlLa0E9PRgAICAoIDDMuJrDoKr5AjjZoNqZkjBAh8PPlqYwShxReE52TWRIZUZTcDgwT3NBcUlVVE5OMnRabXc9Wh8iHThMM0VqeEEraFRlaW5YV1h5ZHlHanpwMk9Ua289ZfuFgJES7gEIDhLpAQoceEpmekZzTlR5MzhzekRTZHRsQm5Cb25OOFpnPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxubjQ3MTFWYVVYYllwTkdIdFRVRnNXcGxqazBINjdFRUNxSlQ4Q3lKanhKS2ZwcE5UMW5QdXhvSmtlMkNYcjNIYXJlRDYyUT09GAAgACgAMMTj+t3l6vcCOPb03NWNMED29NzVjTBKHFV3YWVtQVM5ZUNEbmJQUTlKaTJhc21YYXhrOD1aISIf///7d05tOTJHdnl0TU1WdVJSTjl0WnI4OG4zd0VBPWUUHH3qEuwBCBwS5wEKHGl5WVNJSjA4OHdidUtmRVQzZXZVQVZCM2hlZz0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMbmxNbXhIOXQrdFo4Y3UzeEVrOVFPeDJGWmFvVEs2OUZSRWNkNkJ3VVcrWVZMV3hUVmZNcmpWekNzSHpIYzk5cTF5UlB5ZFE9PRgAIAAoADCAifC+pev3AjiBwPHdjTBAgcDx3Y0wShxEVDErZXV5Z3lxampHdXN4V3NVazRJK1FyZWs9Wh8iHe1rMzg2LzJ3cWFuQjJQVTNHdU5pVHdGMytHUVU9ZQSc308S7AEIFhLnAQocbUxqRlBnNGorWE4xU09zbFh5WitPWWVOR2YwPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxublpKM2J2ZzhWQkNwc0diVmQ5M0xLSFExV1IvQ1gybDdtUDJ1Zm5aNXZPNjRONTZhYkhQSUZmdlVqTkJ3N2VBamVtQXM1QT09GAAgACgAMMH0zdHX1PQCOJPrgdjZL0CT64HY2S9KHHgzWU10Z2ZiNk44eUJqTWRWVVd2dnBYUExWND1aHyId+3I3Tk0zRWVoTFAyeklseWZmVWNMTkxQSGRJOD1lAAAAABLuAQgNEukBChxsOUxkMDhHUGpWV1RrajlHY2tPb25kSUVISVU9EmZaOkFEcXRBWnpTRE1mRE5pOW91ckIrNlpESjV6TG4wOUdSTDg3RW1nZHl6YmZTUjgxSXBvVWYyeENwcXVRbVBna3krRXdRUk1mSWZ1TlE4V2JnUTVHSHZRRW0zVitJK3VKbERRPT0YACAAKAAw0bGulqfj9wI4/OaD24wwQPzmg9uMMEoceFF2UjFpWlFROFZRZkZlN0dLNXpsMmEwbmxjPVohIh////daWkNpWlBGY3lWaE8wMU9zWGlQQkxBbnd6Yzg9ZRqupcES7QEICBLoAQocc2dlelgwa0pYQldFL3U5TE1VTm5TNGE3bFE4PRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxudGE5blBYY2ZXeUozK3NVR21pK1kyemFKQmlVV2lSMndoRGlaUy90Ui9icnpla2dVR0J0OGU2VUIzSG90eDBlanlNdTFEUT09GAAg5gEo5gEwsMPQue6b+QI4+/aJmeIvQK3q6qqkMEocNjkyVW42RzFPNnMrb0VZYnVvaGh0b3pWd3lRPVoeIhxDU0pGSm8vL0lxRXVqVnRIdW1HVzZJNGRhaUU9ZSXJkB0S7AEIGhLnAQocSUkwMmVqaWw1TE15bm9va2dOVTdBWTM5bnZNPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxuQUpjU3VKNHN0UTJiQnJGNDZ0bnBnbUNyMDJQQVJwNU43dE1VcG8zVTlXdFQwMTNNbUdQNmMwZXE5MGFmVSs3OVhlTHlvUT09GAAgACgAMP23ipyE6/cCOP7gz9mNMED+4M/ZjTBKHFBjQTB4bmZqRnpiRUd0ZytMTVpyRGE4L05sUT1aHyIdtDZSaGp1SjNDRTZ4MWJOTS94SWZJZSt5SHF6TT1lUVVTGxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlZd0tpTlhXK01rb1FKbFNBM1c4bGppQ1hlS21HVU4xUDRYNjREcEMrOEdERjBGN2lkWmtqaEhUa1AwdjlEeXpLMnZrcVNtSzR6aXFrY2s5bTVXTGxodk1hbkJnPT0YACAAKAAwhqOk69Wf+AI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgkEucBChxUejZFRVNqTy92UzdtOE9iNC9Bamh0RDB1TjA9EmZaOkFEcXRBWnpTRE1mRE5pOW91ckIrNlpESjV6TG5UcDBsYUtxb3kwR0VJQWN6MVh6Yk1tNm95ZkEzUVVCWDBDcGJKUTQ0SUNFUW5URTd5NDZ1L3E1RnJrSVRNM3ZxT2g4M1VnPT0YACACKAIw/I+glqyv+AI4zrPuuJYwQMXP7riWMEocdlpReisxRkt1dTBaQzZSZGxTTEN5YnEwK2tVPVofIh3/WTlGdU1aY05MTmdkUjJIL291TnIrSllyZzZJPWUAAAAAEu4BCB8S6QEKHFNDWVY1ZGZMdWljeGY3MGNUVkZPOXJacVlvRT0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMbnFBbDFTSEJieG9MalI5aWtTbzZVbVV0QWhmOVJsWWFwVkdvbkQ5UFo3b3Z3YXRHdUd3d24xK3VCN3hEZ2RKYmNwcE1ob0E9PRgAIBAoEDDn2/Liuuj4AjiN5erBlDBA0rLQ4J0wShxOMm0zWU44ODlwRVlNZEVLbGpmdnFIc1JjZDg9WiEiH////2xyaUk3SXU0SjJBWThiN0pBekt2NnlxSEdWcz1lVKZgSBLvAQgLEuoBChxzMEkzdG12NnhpOHNiWElhWlg0eUx5MzlwMmc9EmZaOkFEcXRBWnpTRE1mRE5pOW91ckIrNlpESjV6TG5zZnhxTmlYNU9acENsUVNBL2czdW0wWFNrZjJLVjVUY3pPVHU2dGM1V2YwUzFPU2h6bVloYThuR05TUk4vdTZXRGZIclJRPT0YACD8Bij8BjDYjM3B86n5AjiZoO3J9C9A/4XukKYwShx4OHBHUVU1YjRhc3k4TWZVa1FlUldRSUw4TTQ9WiAiHv//V3NwNis3akdwV2ppUzhBeE1DYUJwMDdXQVljPWX91iByEu4BCCES6QEKHGsvS3FvRXJkaDZJSUhScTA0ZStMVEFjODliTT0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMbnl1RUcyaWZUdnZ2NStMdTUrRS9lRlduelIwaFZjdFR6WE1zQkJvVXVpbHowc0dreGZDV0g2bUdPdkxMK3o1MWIvSkMrMGc9PRgAIAMoAzDiw9mZ5734Ajjq+amuljBA1ovmpZgwShxIQmkrOXBMQ3VqQ0N1bk03OEV3aWYxV2xvSXc9WiEiH////3VxbmZ5SlZJczlqNFNFcWFzSEE4eGt6a1dpYz1lAAAAABLsAQgbEucBChxaeUEwMzhYZUFTOFpRV2RqVnZiejhvRzJUWXc9EmZaOkFEcXRBWnpTRE1mRE5pOW91ckIrNlpESjV6TG5VL251Z3BIZ3k2ZFVCWHErY3NCeHFZdlBrS1FBSnV0dXFoU0lDNFFjc3dOL2E1Zk83OGcwTERrcCtpNDRrWHIydTlEZTZBPT0YACAAKAAwspWxiaXr9wI4mJDq3Y0wQJiQ6t2NMEocRlZyYkR5aHg3VklGaEJVSDg3Y2FYbWNtaEgwPVofIh3aUTJTVDZiMXJmL3I2MmxQam5STEUwM1dpL3JVPWUEnN9PEu8BCCgS6gEKHE84LytHNkxqT2FJSTRndU9FbWZLcDBYWHE0MD0SZlo6QURxdEFaelNETWZETmk5b3VyQis2WkRKNXpMblNIcWJXelFRQU8wcGZyajNtSzA3ZDVvaDl1UkV4Tk1SQ0VHZUpXQWxuUXFEdUNXd2xqMDY5N05qRU5CWDBZOTJVOFVRWWc9PRgAIAIoAjCl0MOJi4f5AjjNl7fWoTBA1pe31qEwShxOMnNaSjB4OWVDb282eXc5STRmbDdzOERlL009WiIiIP///+5nNTlXYU1BMVhuZGJSblhHUWFZeFZ3b3c4cG89ZcP0mxcS7AEIFRLnAQocUkhUVEt6Q25oWkkxZzZvdXlxS0Y2aVJ3NlAwPRJmWjpBRHF0QVp6U0RNZkROaTlvdXJCKzZaREo1ekxuS2h5RUNQUUxiaDBRaVQxbDJhbU1vR1VNaEJHL2d2bHY5QWhCTlJCb241dWgvYVZndStZZmdxSjJFUVcxUld0QmhISCtkdz09GAAgACgAMJKA3ZCa0fQCOLb5/p7ZL0C2+f6e2S9KHEhZMTUrVjFyS0NDVXNYOU9EWitiRHdzNGZDST1aHyId9zNhMEM5Q2pDTmRwYys1SzBDenlEbEZtendXMD1lpGU7MTABOAA=",
+   "version": 1
+}

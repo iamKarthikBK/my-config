@@ -1,0 +1,6 @@
+2022/06/28-15:16:59.160 7516 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.discoveryplus.in_0.indexeddb.leveldb since it was missing.
+2022/06/28-15:16:59.165 7516 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.discoveryplus.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/28-15:17:08.344 7516 Level-0 table #5: started
+2022/06/28-15:17:08.347 7516 Level-0 table #5: 1341 bytes OK
+2022/06/28-15:17:08.352 7516 Delete type=0 #3
+2022/06/28-15:17:08.353 7516 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

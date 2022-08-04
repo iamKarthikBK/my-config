@@ -1,0 +1,31 @@
+2022/08/02-19:47:04.382 510 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/02-19:47:04.383 510 Recovering log #496
+2022/08/02-19:47:04.385 510 Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000496.log 
+2022/08/02-19:48:12.959 50f Compacting 1@1 + 1@2 files
+2022/08/02-19:48:12.974 50f Generated table #499@1: 71 keys, 11028 bytes
+2022/08/02-19:48:12.974 50f Compacted 1@1 + 1@2 files => 11028 bytes
+2022/08/02-19:48:12.978 50f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/02-19:48:12.978 50f Delete type=2 #494
+2022/08/02-19:48:12.978 50f Delete type=2 #497
+2022/08/02-20:31:28.944 c17 Level-0 table #501: started
+2022/08/02-20:31:28.984 c17 Level-0 table #501: 2315050 bytes OK
+2022/08/02-20:31:28.989 c17 Delete type=0 #496
+2022/08/02-20:31:42.209 b7f Level-0 table #503: started
+2022/08/02-20:31:42.214 b7f Level-0 table #503: 65239 bytes OK
+2022/08/02-20:31:42.219 b7f Delete type=0 #500
+2022/08/02-20:31:42.220 b7f Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x02\x00l\x00h' @ 1107562 : 0
+2022/08/02-20:31:42.220 b7f Compacting 1@0 + 1@1 files
+2022/08/02-20:31:42.233 b7f Generated table #504@0: 3313 keys, 36033 bytes
+2022/08/02-20:31:42.233 b7f Compacted 1@0 + 1@1 files => 36033 bytes
+2022/08/02-20:31:42.237 b7f compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/02-20:31:42.237 b7f Delete type=2 #501
+2022/08/02-20:31:42.237 b7f Delete type=2 #503
+2022/08/02-20:31:42.237 b7f Manual compaction at level-0 from '\x00\x02\x01\x03\x01\x02\x00l\x00h' @ 1107562 : 0 .. (end); will stop at (end)
+2022/08/02-20:31:42.238 b7f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x02\x00l\x00h' @ 1107773 : 1
+2022/08/02-20:31:42.238 b7f Compacting 1@1 + 1@2 files
+2022/08/02-20:31:42.241 b7f Generated table #505@1: 68 keys, 8930 bytes
+2022/08/02-20:31:42.241 b7f Compacted 1@1 + 1@2 files => 8930 bytes
+2022/08/02-20:31:42.244 b7f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/02-20:31:42.244 b7f Delete type=2 #499
+2022/08/02-20:31:42.244 b7f Delete type=2 #504
+2022/08/02-20:31:42.245 b7f Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x02\x00l\x00h' @ 1107773 : 1 .. (end); will stop at (end)

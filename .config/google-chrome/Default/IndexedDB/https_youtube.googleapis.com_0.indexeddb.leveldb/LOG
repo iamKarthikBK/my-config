@@ -1,0 +1,19 @@
+2022/07/27-22:43:20.062 47b9 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/27-22:43:20.063 47b9 Recovering log #25
+2022/07/27-22:43:20.063 47b9 Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/000025.log 
+2022/07/27-22:43:20.587 44ed Level-0 table #31: started
+2022/07/27-22:43:20.590 44ed Level-0 table #31: 796 bytes OK
+2022/07/27-22:43:20.595 44ed Delete type=0 #25
+2022/07/27-22:43:20.596 44ed Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/07/27-22:43:20.596 44ed Manual compaction at level-1 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x008\x87^\x0a$xB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 2617 : 0
+2022/07/27-22:43:20.596 44ed Compacting 1@1 + 1@2 files
+2022/07/27-22:43:20.599 44ed Generated table #32@1: 23 keys, 800 bytes
+2022/07/27-22:43:20.599 44ed Compacted 1@1 + 1@2 files => 800 bytes
+2022/07/27-22:43:20.603 44ed compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/27-22:43:20.604 44ed Delete type=2 #31
+2022/07/27-22:43:20.604 44ed Manual compaction at level-1 from '\x00\x08\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x008\x87^\x0a$xB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 2617 : 0 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/07/27-22:43:21.575 44ed Level-0 table #34: started
+2022/07/27-22:43:21.576 44ed Level-0 table #34: 1722 bytes OK
+2022/07/27-22:43:21.580 44ed Delete type=2 #28
+2022/07/27-22:43:21.580 44ed Delete type=0 #30
+2022/07/27-22:43:21.580 44ed Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

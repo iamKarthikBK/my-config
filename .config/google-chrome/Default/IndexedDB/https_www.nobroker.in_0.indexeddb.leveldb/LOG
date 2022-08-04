@@ -1,0 +1,6 @@
+2022/07/19-13:29:53.226 1104 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.nobroker.in_0.indexeddb.leveldb since it was missing.
+2022/07/19-13:29:53.232 1104 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.nobroker.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/19-13:34:48.199 1a7c Level-0 table #5: started
+2022/07/19-13:34:48.203 1a7c Level-0 table #5: 161418 bytes OK
+2022/07/19-13:34:48.207 1a7c Delete type=0 #3
+2022/07/19-13:34:48.207 1a7c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

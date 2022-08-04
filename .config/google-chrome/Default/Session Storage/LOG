@@ -1,0 +1,24 @@
+2022/08/04-09:59:39.302 3 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/08/04-09:59:39.303 3 Recovering log #1063
+2022/08/04-09:59:39.304 3 Reusing old log /home/karthik/.config/google-chrome/Default/Session Storage/001063.log 
+2022/08/04-10:00:04.011 5 Level-0 table #1067: started
+2022/08/04-10:00:04.015 5 Level-0 table #1067: 29934 bytes OK
+2022/08/04-10:00:04.024 5 Delete type=0 #1063
+2022/08/04-10:00:04.027 5 Compacting 4@0 + 1@1 files
+2022/08/04-10:00:04.073 5 Generated table #1068@0: 26477 keys, 768591 bytes
+2022/08/04-10:00:04.073 5 Compacted 4@0 + 1@1 files => 768591 bytes
+2022/08/04-10:00:04.089 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/04-10:00:04.093 5 Delete type=2 #1057
+2022/08/04-10:00:04.093 5 Delete type=2 #1059
+2022/08/04-10:00:04.093 5 Delete type=2 #1062
+2022/08/04-10:00:04.093 5 Delete type=2 #1064
+2022/08/04-10:00:04.093 5 Delete type=2 #1067
+2022/08/04-10:21:34.684 3 Level-0 table #1070: started
+2022/08/04-10:21:34.691 3 Level-0 table #1070: 43899 bytes OK
+2022/08/04-10:21:34.697 3 Delete type=0 #1066
+2022/08/04-12:16:19.569 e Level-0 table #1072: started
+2022/08/04-12:16:19.575 e Level-0 table #1072: 18214 bytes OK
+2022/08/04-12:16:19.579 e Delete type=0 #1069
+2022/08/04-14:34:47.762 1f Level-0 table #1074: started
+2022/08/04-14:34:47.767 1f Level-0 table #1074: 18708 bytes OK
+2022/08/04-14:34:47.771 1f Delete type=0 #1071

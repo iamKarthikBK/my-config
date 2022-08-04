@@ -1,0 +1,18 @@
+2022/07/21-16:08:03.089 63b2 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb since it was missing.
+2022/07/21-16:08:03.097 63b2 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/21-16:08:04.779 6182 Level-0 table #5: started
+2022/07/21-16:08:04.781 6182 Level-0 table #5: 1674 bytes OK
+2022/07/21-16:08:04.786 6182 Delete type=0 #3
+2022/07/21-16:08:04.786 6182 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/07/21-16:08:41.866 6c16 Level-0 table #7: started
+2022/07/21-16:08:41.868 6c16 Level-0 table #7: 6073 bytes OK
+2022/07/21-16:08:41.872 6c16 Delete type=0 #4
+2022/07/21-16:08:41.872 6c16 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/21-16:08:41.872 6c16 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x02\x02\x01\x05\x00s\x00w\x00V\x00e\x00r' @ 292 : 1
+2022/07/21-16:08:41.872 6c16 Compacting 1@1 + 1@2 files
+2022/07/21-16:08:41.874 6c16 Generated table #8@1: 69 keys, 1911 bytes
+2022/07/21-16:08:41.874 6c16 Compacted 1@1 + 1@2 files => 1911 bytes
+2022/07/21-16:08:41.877 6c16 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/21-16:08:41.877 6c16 Delete type=2 #5
+2022/07/21-16:08:41.877 6c16 Delete type=2 #7
+2022/07/21-16:08:41.878 6c16 Manual compaction at level-1 from '\x00\x04\x02\x02\x01\x05\x00s\x00w\x00V\x00e\x00r' @ 292 : 1 .. (end); will stop at (end)

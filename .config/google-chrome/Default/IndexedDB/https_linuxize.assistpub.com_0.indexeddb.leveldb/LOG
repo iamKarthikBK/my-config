@@ -1,0 +1,6 @@
+2022/07/05-23:52:59.036 6ee1 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_linuxize.assistpub.com_0.indexeddb.leveldb since it was missing.
+2022/07/05-23:52:59.043 6ee1 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_linuxize.assistpub.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/05-23:53:25.041 6be3 Level-0 table #5: started
+2022/07/05-23:53:25.043 6be3 Level-0 table #5: 395 bytes OK
+2022/07/05-23:53:25.048 6be3 Delete type=0 #3
+2022/07/05-23:53:25.048 6be3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

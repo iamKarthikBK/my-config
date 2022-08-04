@@ -1,0 +1,12 @@
+mk_test:
+  inputs:
+    CLK: CLK
+    RST_N: RST_N
+    ma_request_ops_priv_key: ma_request_ops_priv_key
+    EN_ma_request_ops: EN_ma_request_ops
+  outputs:
+    RDY_ma_request_op: RDY_ma_request_op
+    mv_pubkey_fst: mv_pubkey_fst
+    RDY_mv_pubkey_fst: RDY_mv_pubkey_fst
+    mv_pubkey_snd: mv_pubkey_snd
+    RDY_mv_pubkey_snd: RDY_mv_pubkey_snd

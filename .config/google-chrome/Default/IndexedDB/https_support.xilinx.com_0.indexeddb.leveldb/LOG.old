@@ -1,0 +1,15 @@
+2022/06/20-15:36:22.047 6b0a Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_support.xilinx.com_0.indexeddb.leveldb since it was missing.
+2022/06/20-15:36:22.052 6b0a Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_support.xilinx.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/20-15:36:23.270 7473 Level-0 table #5: started
+2022/06/20-15:36:23.274 7473 Level-0 table #5: 117485 bytes OK
+2022/06/20-15:36:23.278 7473 Delete type=0 #3
+2022/06/20-15:36:23.278 7473 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/06/20-15:36:23.314 79ed Level-0 table #7: started
+2022/06/20-15:36:23.331 79ed Level-0 table #7: 1074979 bytes OK
+2022/06/20-15:36:23.334 79ed Delete type=0 #4
+2022/06/20-15:36:23.347 7473 Compacting 1@1 + 1@2 files
+2022/06/20-15:36:23.369 7473 Generated table #8@1: 1877 keys, 1126676 bytes
+2022/06/20-15:36:23.369 7473 Compacted 1@1 + 1@2 files => 1126676 bytes
+2022/06/20-15:36:23.372 7473 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/20-15:36:23.372 7473 Delete type=2 #5
+2022/06/20-15:36:23.372 7473 Delete type=2 #7

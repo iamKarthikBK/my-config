@@ -1,0 +1,6 @@
+2022/07/08-10:12:06.650 d68 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.bokksu.com_0.indexeddb.leveldb since it was missing.
+2022/07/08-10:12:06.659 d68 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.bokksu.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/08-10:38:31.094 1b0f Level-0 table #5: started
+2022/07/08-10:38:31.097 1b0f Level-0 table #5: 16282 bytes OK
+2022/07/08-10:38:31.102 1b0f Delete type=0 #3
+2022/07/08-10:38:31.102 1b0f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

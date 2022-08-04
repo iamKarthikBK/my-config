@@ -1,0 +1,18 @@
+[Info  - 4:37:56 PM] (45454) Pylance language server 2022.7.40 (pyright bd00e0d1) starting
+[Info  - 4:37:56 PM] (45454) Server root directory: /home/karthik/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+Notebook support: Legacy
+[Info  - 4:37:56 PM] (45454) No configuration file found.
+[Info  - 4:37:56 PM] (45454) No pyproject.toml file found.
+[Info  - 4:37:56 PM] (45454) Setting pythonPath for service "crypto-accel": "/bin/python"
+[Warn  - 4:37:56 PM] (45454) stubPath /home/karthik/incore/crypto-accel/typings is not a valid directory.
+[Info  - 4:37:56 PM] (45454) Assuming Python version 3.10
+[Info  - 4:37:56 PM] (45454) Assuming Python platform Linux
+[Info  - 4:37:57 PM] (45454) Searching for source files
+[Info  - 4:37:57 PM] (45454) Found 39 source files
+[Info  - 4:37:57 PM] (45454) Background analysis(1) root directory: /home/karthik/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist
+[Info  - 4:37:57 PM] (45454) Background analysis(1) started
+[Info  - 4:37:57 PM] (45454) Indexer background runner(2) root directory: /home/karthik/.vscode/extensions/ms-python.vscode-pylance-2022.7.40/dist (index)
+[Info  - 4:37:57 PM] (45454) Indexing(2) started
+[Info  - 4:37:58 PM] (45454) Indexer done(2). indexed 473 files
+[Info  - 4:38:27 PM] (45454) Searching for source files
+[Info  - 4:38:28 PM] (45454) Found 25 source files

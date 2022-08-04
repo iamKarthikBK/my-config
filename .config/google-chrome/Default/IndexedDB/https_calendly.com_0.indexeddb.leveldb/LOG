@@ -1,0 +1,6 @@
+2022/06/15-16:10:29.395 2c40 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_calendly.com_0.indexeddb.leveldb since it was missing.
+2022/06/15-16:10:29.400 2c40 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_calendly.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/15-16:20:25.508 326b Level-0 table #5: started
+2022/06/15-16:20:25.512 326b Level-0 table #5: 3464 bytes OK
+2022/06/15-16:20:25.517 326b Delete type=0 #3
+2022/06/15-16:20:25.517 326b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

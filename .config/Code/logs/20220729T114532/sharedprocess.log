@@ -1,0 +1,15 @@
+[2022-07-29 11:45:34.645] [sharedprocess] [info] Starting worker process with pid 11504 (type: fileWatcher, window: 1).
+[2022-07-29 11:45:37.120] [sharedprocess] [info] Getting Manifest... github.copilot
+[2022-07-29 11:45:37.439] [sharedprocess] [info] Installing extension: github.copilot
+[2022-07-29 11:45:39.412] [sharedprocess] [info] Downloaded extension: github.copilot /home/karthik/.config/Code/CachedExtensionVSIXs/github.copilot-1.36.6340
+[2022-07-29 11:45:39.480] [sharedprocess] [info] Extracted extension to /home/karthik/.vscode/extensions/.478cfe53-8a75-4a82-9b28-ed620d8d2b7a: github.copilot
+[2022-07-29 11:45:39.484] [sharedprocess] [info] Renamed to /home/karthik/.vscode/extensions/github.copilot-1.36.6340
+[2022-07-29 11:45:39.485] [sharedprocess] [info] Extracting completed. github.copilot
+[2022-07-29 11:45:39.488] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2022-07-29 11:48:36.512] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/resource/machines/latest {}
+[2022-07-29 12:52:11.181] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-29 13:37:24.014] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-29 13:46:24.333] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-29 14:23:24.082] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-29 14:57:28.197] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-29 15:07:44.652] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}

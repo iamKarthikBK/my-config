@@ -1,0 +1,7 @@
+2022/06/16-13:25:39.370 679a Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.greetingsisland.com_0.indexeddb.leveldb since it was missing.
+2022/06/16-13:25:39.375 679a Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.greetingsisland.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/16-13:25:39.643 679a Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/06/16-13:25:48.806 6915 Level-0 table #5: started
+2022/06/16-13:25:48.809 6915 Level-0 table #5: 2429 bytes OK
+2022/06/16-13:25:48.813 6915 Delete type=0 #3
+2022/06/16-13:25:48.814 6915 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

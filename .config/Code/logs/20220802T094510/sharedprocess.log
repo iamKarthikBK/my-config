@@ -1,0 +1,14 @@
+[2022-08-02 09:45:12.889] [sharedprocess] [info] Deleted from disk github.copilot /home/karthik/.vscode/extensions/github.copilot-1.34.6280
+[2022-08-02 09:45:13.261] [sharedprocess] [info] Starting worker process with pid 3325 (type: fileWatcher, window: 1).
+[2022-08-02 13:23:24.146] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-08-02 13:41:33.410] [sharedprocess] [info] Worker process with pid 3325 terminated normally (type: fileWatcher, window: 1).
+[2022-08-02 13:41:34.393] [sharedprocess] [info] Starting worker process with pid 33836 (type: fileWatcher, window: 1).
+[2022-08-02 13:42:58.601] [sharedprocess] [info] Getting Manifest... tomoki1207.pdf
+[2022-08-02 13:42:58.613] [sharedprocess] [info] Installing extension: tomoki1207.pdf
+[2022-08-02 13:43:00.762] [sharedprocess] [info] Downloaded extension: tomoki1207.pdf /home/karthik/.config/Code/CachedExtensionVSIXs/tomoki1207.pdf-1.2.0
+[2022-08-02 13:43:01.135] [sharedprocess] [info] Extracted extension to /home/karthik/.vscode/extensions/.fc7d390a-c811-4f10-880f-6ca010124751: tomoki1207.pdf
+[2022-08-02 13:43:01.143] [sharedprocess] [info] Renamed to /home/karthik/.vscode/extensions/tomoki1207.pdf-1.2.0
+[2022-08-02 13:43:01.145] [sharedprocess] [info] Extracting completed. tomoki1207.pdf
+[2022-08-02 13:43:01.146] [sharedprocess] [info] Extension installed successfully: tomoki1207.pdf
+[2022-08-02 15:50:39.963] [sharedprocess] [info] Worker process with pid 33836 terminated normally (type: fileWatcher, window: 1).
+[2022-08-02 15:50:41.261] [sharedprocess] [info] Starting worker process with pid 45811 (type: fileWatcher, window: 1).

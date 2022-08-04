@@ -1,0 +1,6 @@
+2022/06/23-22:08:12.188 ee8 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb since it was missing.
+2022/06/23-22:08:12.195 ee8 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_pxlclnmdecom-a.akamaihd.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/23-22:08:14.653 160a Level-0 table #5: started
+2022/06/23-22:08:14.655 160a Level-0 table #5: 1103 bytes OK
+2022/06/23-22:08:14.658 160a Delete type=0 #3
+2022/06/23-22:08:14.658 160a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

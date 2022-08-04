@@ -1,0 +1,10 @@
+mk_pubkey_gen:
+  inputs:
+    CLK: CLK
+    RST: RST_N
+    priv_key: ma_request_ops_priv_key
+    en_priv_key: EN_ma_request_ops
+  outputs:
+    input_rdy: RDY_ma_request_op
+    pub_key: mv_pubkey_snd
+    pub_key_rdy: RDY_mv_pubkey_snd

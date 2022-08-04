@@ -1,0 +1,7 @@
+2022/07/06-21:13:56.993 185a Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.bmcadventures.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/06-21:13:56.993 185a Recovering log #3
+2022/07/06-21:13:56.994 185a Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.bmcadventures.com_0.indexeddb.leveldb/000003.log 
+2022/07/07-00:00:15.416 37bd Level-0 table #5: started
+2022/07/07-00:00:15.419 37bd Level-0 table #5: 2296 bytes OK
+2022/07/07-00:00:15.423 37bd Delete type=0 #3
+2022/07/07-00:00:15.423 37bd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

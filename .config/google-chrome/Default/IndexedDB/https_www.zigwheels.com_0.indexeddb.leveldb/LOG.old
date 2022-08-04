@@ -1,0 +1,6 @@
+2022/06/28-17:52:10.442 cfa1 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.zigwheels.com_0.indexeddb.leveldb since it was missing.
+2022/06/28-17:52:10.448 cfa1 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.zigwheels.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/28-17:53:09.027 d084 Level-0 table #5: started
+2022/06/28-17:53:09.030 d084 Level-0 table #5: 52990 bytes OK
+2022/06/28-17:53:09.035 d084 Delete type=0 #3
+2022/06/28-17:53:09.035 d084 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

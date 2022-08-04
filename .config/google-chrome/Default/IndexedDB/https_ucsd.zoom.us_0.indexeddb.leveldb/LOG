@@ -1,0 +1,7 @@
+2022/07/27-20:30:44.498 16f9 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_ucsd.zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/27-20:30:44.498 16f9 Recovering log #3
+2022/07/27-20:30:44.499 16f9 Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_ucsd.zoom.us_0.indexeddb.leveldb/000003.log 
+2022/07/27-20:59:56.438 243c Level-0 table #5: started
+2022/07/27-20:59:56.442 243c Level-0 table #5: 21184 bytes OK
+2022/07/27-20:59:56.446 243c Delete type=0 #3
+2022/07/27-20:59:56.447 243c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

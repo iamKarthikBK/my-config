@@ -1,0 +1,6 @@
+[2022-07-25 10:10:45.100] [sharedprocess] [info] Starting worker process with pid 5240 (type: fileWatcher, window: 1).
+[2022-07-25 11:47:35.299] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-25 12:00:13.116] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-25 12:05:30.258] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-25 13:20:03.038] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}
+[2022-07-25 13:34:14.387] [sharedprocess] [error] RequestService#request (browser) - error https://vscode-sync.trafficmanager.net/v1/manifest {}

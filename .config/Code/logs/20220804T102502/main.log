@@ -1,0 +1,5 @@
+[2022-08-04 10:25:02.819] [main] [info] update#setState idle
+[2022-08-04 10:25:04.324] [main] [info] Starting extension host with pid 4429 (fork() took 8 ms).
+[2022-08-04 10:25:12.630] [main] [info] Enabling inspect port on extension host with pid 4429.
+[2022-08-04 10:25:32.822] [main] [info] update#setState checking for updates
+[2022-08-04 10:25:32.830] [main] [info] update#setState available for download

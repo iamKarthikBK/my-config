@@ -1,0 +1,7 @@
+2022/07/20-14:18:46.333 5a41 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_tradestation.5paisa.com_0.indexeddb.leveldb since it was missing.
+2022/07/20-14:18:46.339 5a41 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_tradestation.5paisa.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/20-14:18:46.742 5ae0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/07/20-14:21:26.537 5ae0 Level-0 table #5: started
+2022/07/20-14:21:26.542 5ae0 Level-0 table #5: 22180 bytes OK
+2022/07/20-14:21:26.546 5ae0 Delete type=0 #3
+2022/07/20-14:21:26.547 5ae0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

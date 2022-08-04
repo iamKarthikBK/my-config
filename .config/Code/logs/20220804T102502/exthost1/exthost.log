@@ -1,0 +1,227 @@
+[2022-08-04 10:25:05.407] [exthost] [info] Extension host with pid 4429 started
+[2022-08-04 10:25:05.407] [exthost] [info] Skipping acquiring lock for /home/karthik/.config/Code/User/workspaceStorage/10c836c5eb303e1c1c67eef56ffe1235.
+[2022-08-04 10:25:05.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-04 10:25:05.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-04 10:25:05.694] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-04 10:25:05.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-04 10:25:05.703] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-08-04 10:25:05.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-04 10:25:05.907] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-04 10:25:05.989] [exthost] [info] Eager extensions activated
+[2022-08-04 10:25:06.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-04 10:25:06.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-04 10:25:06.199] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-04 10:25:06.261] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-04 10:25:06.394] [exthost] [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-04 10:25:06.886] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-04 10:26:47.792] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-04 10:26:47.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-04 10:26:47.820] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-04 10:57:15.906] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 10:57:17.136] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 10:57:20.933] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:03:57.237] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:03:59.648] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:16:33.883] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:17:33.138] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-08-04 11:17:33.139] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.w (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:35932)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28775)
+    at i.fire (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28816)
+    at c.abort (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:29525)
+    at /home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:8:411101
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6677)
+    at C.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:7218)
+    at Object.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12151)
+    at s._receiveCancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12878)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:11198)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-08-04 11:19:04.091] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-08-04 11:19:04.091] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.w (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:35932)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28775)
+    at i.fire (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28816)
+    at c.abort (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:29525)
+    at /home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:8:411101
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6677)
+    at C.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:7218)
+    at Object.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12151)
+    at s._receiveCancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12878)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:11198)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-08-04 11:22:19.966] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:22:58.211] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:24:44.592] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:25:29.355] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:41:23.801] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:42:09.640] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:51:45.885] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:51:57.627] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 11:56:10.408] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:07:58.723] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:08:00.002] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:09:02.772] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-08-04 14:09:02.772] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.w (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:35932)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28775)
+    at i.fire (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28816)
+    at c.abort (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:29525)
+    at /home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:8:411101
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6677)
+    at C.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:7218)
+    at Object.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12151)
+    at s._receiveCancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12878)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:11198)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-08-04 14:09:29.837] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:14:18.929] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:14:27.284] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:14:41.067] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:14:43.973] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:14:53.403] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:15:00.332] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:20:06.981] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:28:43.505] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:30:02.998] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:30:33.374] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:30:42.826] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:31:01.287] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:31:27.530] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:31:50.829] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:31:59.773] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:32:33.473] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:33:02.536] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:34:13.040] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:35:00.577] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:46:56.159] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:47:12.361] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-08-04 14:47:12.361] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.w (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:35932)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28775)
+    at i.fire (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:28816)
+    at c.abort (/home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:2:29525)
+    at /home/karthik/.vscode/extensions/github.copilot-1.37.6378/dist/extension.js:8:411101
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6677)
+    at C.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:7218)
+    at Object.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12151)
+    at s._receiveCancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12878)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:11198)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-08-04 14:47:25.736] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:48:59.577] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:49:16.669] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:51:09.770] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:51:39.000] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:52:24.030] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:53:49.511] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:54:41.611] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:55:15.266] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:56:05.921] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:56:40.154] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:57:05.878] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 14:57:31.772] [exthost] [warning] TextEditor is closed/disposed
+[2022-08-04 15:00:42.254] [exthost] [warning] TextEditor is closed/disposed

@@ -1,0 +1,29 @@
+// Key size for all computations
+`define KeySize         233
+
+// Double the key size for mod and mul ops
+`define DoubleKeySize   465
+
+// Powers of the irreducible polynomial
+// of the form t^(A) + t^(B) + t^(C) + t^(D) + 1 = 0 
+// `define t_A             283
+// `define t_B             12
+// `define t_C             7
+// `define t_D             5
+
+`define polynomial 3
+
+`define t_A 233
+`define t_B 74
+
+// Brauer addition chain params for inversion circuit
+// BrauerChain needs to have the prefix 'B' for each element. ex: B1, B2, ...
+`define BrauerLength 11
+`define BrauerChain 1, 2, 3, 6, 7, 14, 28, 29, 58, 116, 232
+// `define BrauerLength    12
+// `define BrauerChain     1, 2, 4, 8, 16, 32, 64, 128, 256, 272, 280, 282
+
+// curve co-efficients and params
+`define curve_a         233'h1
+`define curve_b         233'066647ede6c332c7f8c0923bb58213b333b20e9ce4281fe115f7d8f90ad
+// `define curve_b         283'h27b680ac8b8596da5a4af8a19a0303fca97fd7645309fa2a581485af6263e313b79a2f5 // B283

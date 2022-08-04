@@ -1,0 +1,40 @@
+[2022-08-03 12:30:20.420] [exthost] [info] Extension host with pid 14368 started
+[2022-08-03 12:30:20.420] [exthost] [info] Skipping acquiring lock for /home/karthik/.config/Code/User/workspaceStorage/10c836c5eb303e1c1c67eef56ffe1235.
+[2022-08-03 12:30:20.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-03 12:30:20.630] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-03 12:30:20.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-03 12:30:20.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-03 12:30:20.637] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-08-03 12:30:20.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-03 12:30:20.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-03 12:30:20.964] [exthost] [info] Eager extensions activated
+[2022-08-03 12:30:21.050] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 12:30:21.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 12:30:21.063] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 12:30:21.124] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 12:30:21.239] [exthost] [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-03 12:30:21.454] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-03 12:30:43.414] [exthost] [info] Extension host terminating: parent process 14342 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-08-03 12:30:43.439] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+    at Object.L [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:9091
+    at Array.forEach (<anonymous>)
+    at s.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:9039)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10990)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:36855)
+    at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:35339)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7) 
+[2022-08-03 12:30:43.446] [exthost] [error] Canceled: Canceled
+    at Object.L [as canceled] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:5:1172)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:9091
+    at Array.forEach (<anonymous>)
+    at s.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:9039)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10990)
+    at g.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:36855)
+    at Timeout._onTimeout (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:35339)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7) vscode.executeDocumentSymbolProvider undefined
+[2022-08-03 12:30:43.447] [exthost] [info] Extension host with pid 14368 exiting with code 0

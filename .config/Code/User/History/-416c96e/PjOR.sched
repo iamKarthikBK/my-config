@@ -1,0 +1,227 @@
+=== Generated schedule for mk_transform_pa ===
+
+Method schedule
+---------------
+Method: ma_transform_pa
+Ready signal: True
+Sequenced after: mv_result_fst, mv_result_snd
+Conflicts: ma_transform_pa
+ 
+Method: mv_result_fst
+Ready signal: (rg_axis == 2'd1) && rg_rdy.read && (! rg_wait.read)
+Conflict-free: mv_result_fst, mv_result_snd
+Sequenced before: ma_transform_pa
+ 
+Method: mv_result_snd
+Ready signal: (rg_axis == 2'd1) && rg_rdy.read && (! rg_wait.read)
+Conflict-free: mv_result_fst, mv_result_snd
+Sequenced before: ma_transform_pa
+ 
+Rule schedule
+-------------
+Rule: gf_inv_fsm_start_reg__dreg_update
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_state_handle_abort
+Predicate: gf_inv_fsm_abort.whas && gf_inv_fsm_abort.wget &&
+	   ((! gf_inv_fsm_start_wire.whas) || (! gf_inv_fsm_start_wire.wget))
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_state_fired__dreg_update
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_state_every
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_restart
+Predicate: gf_inv_fsm_start_reg_1 && (! gf_inv_fsm_state_fired) &&
+	   ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget))
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_f_init_l61c13
+Predicate: gf_inv_fsm_start_wire.whas && gf_inv_fsm_start_wire.wget &&
+	   ((gf_inv_fsm_abort.whas && gf_inv_fsm_abort.wget) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd0) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd8))
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_f_init_l31c17
+Predicate: (gf_inv_b_iter.read < 4'd11) &&
+	   ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   ((gf_inv_fsm_state_mkFSMstate.read == 4'd1) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd7))
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_l32c17
+Predicate: (gf_inv_lv_count.read <
+	    (PrimArrayDynSelect (PrimBuildArray 9'd1
+						9'd2
+						9'd3
+						9'd6
+						9'd7
+						9'd14
+						9'd28
+						9'd29
+						9'd58
+						9'd116
+						9'd232)
+				gf_inv_b_iter.read)) &&
+	   ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   ((gf_inv_fsm_state_mkFSMstate.read == 4'd2) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd4))
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_f_update_l31c17
+Predicate: ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   (gf_inv_fsm_state_mkFSMstate.read == 4'd3)
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_l43c17
+Predicate: (! (gf_inv_lv_count.read <
+	       (PrimArrayDynSelect (PrimBuildArray 9'd1
+						   9'd2
+						   9'd3
+						   9'd6
+						   9'd7
+						   9'd14
+						   9'd28
+						   9'd29
+						   9'd58
+						   9'd116
+						   9'd232)
+				   gf_inv_b_iter.read))) &&
+	   ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   ((gf_inv_fsm_state_mkFSMstate.read == 4'd2) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd4))
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_l47c17
+Predicate: ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   (gf_inv_fsm_state_mkFSMstate.read == 4'd5)
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_f_update_l61c13
+Predicate: ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   (gf_inv_fsm_state_mkFSMstate.read == 4'd6)
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_action_l64c13
+Predicate: (! (gf_inv_b_iter.read < 4'd11)) &&
+	   ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   ((gf_inv_fsm_state_mkFSMstate.read == 4'd1) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd7))
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_idle_l60c9
+Predicate: ((! gf_inv_fsm_start_wire.whas) ||
+	    (! gf_inv_fsm_start_wire.wget)) &&
+	   ((! gf_inv_fsm_abort.whas) || (! gf_inv_fsm_abort.wget)) &&
+	   (gf_inv_fsm_state_mkFSMstate.read == 4'd8)
+Blocking rules: (none)
+ 
+Rule: gf_inv_fsm_fsm_start
+Predicate: ((gf_inv_fsm_abort.whas && gf_inv_fsm_abort.wget) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd0) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd8)) &&
+	   ((! gf_inv_fsm_start_reg_1) || gf_inv_fsm_state_fired) &&
+	   gf_inv_fsm_start_reg
+Blocking rules: (none)
+ 
+Rule: rl_compute_X
+Predicate: ((gf_inv_fsm_abort.whas && gf_inv_fsm_abort.wget) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd0) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd8)) &&
+	   ((! gf_inv_fsm_start_reg_1) || gf_inv_fsm_state_fired) &&
+	   (! gf_inv_fsm_start_reg) &&
+	   (rg_axis == 2'd0) && (! rg_wait.read)
+Blocking rules: (none)
+ 
+Rule: rl_transform_X
+Predicate: ((gf_inv_fsm_abort.whas && gf_inv_fsm_abort.wget) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd0) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd8)) &&
+	   ((! gf_inv_fsm_start_reg_1) || gf_inv_fsm_state_fired) &&
+	   (! gf_inv_fsm_start_reg) &&
+	   (rg_axis == 2'd0) && rg_wait.read
+Blocking rules: (none)
+ 
+Rule: rl_compute_Y
+Predicate: ((gf_inv_fsm_abort.whas && gf_inv_fsm_abort.wget) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd0) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd8)) &&
+	   ((! gf_inv_fsm_start_reg_1) || gf_inv_fsm_state_fired) &&
+	   (! gf_inv_fsm_start_reg) &&
+	   (rg_axis == 2'd1) && (! rg_wait.read)
+Blocking rules: (none)
+ 
+Rule: rl_transform_Y
+Predicate: ((gf_inv_fsm_abort.whas && gf_inv_fsm_abort.wget) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd0) ||
+	    (gf_inv_fsm_state_mkFSMstate.read == 4'd8)) &&
+	   ((! gf_inv_fsm_start_reg_1) || gf_inv_fsm_state_fired) &&
+	   (! gf_inv_fsm_start_reg) &&
+	   (rg_axis == 2'd1) && rg_wait.read
+Blocking rules: (none)
+ 
+Rule: __me_check_5
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: __me_check_6
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: __me_check_7
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: __me_check_8
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: __me_check_9
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: __me_check_10
+Predicate: True
+Blocking rules: (none)
+ 
+Rule: __me_check_11
+Predicate: True
+Blocking rules: (none)
+ 
+Logical execution order: mv_result_fst,
+			 mv_result_snd,
+			 rl_compute_X,
+			 rl_transform_X,
+			 rl_compute_Y,
+			 rl_transform_Y,
+			 ma_transform_pa,
+			 gf_inv_fsm_restart,
+			 gf_inv_fsm_action_f_init_l31c17,
+			 gf_inv_fsm_action_l32c17,
+			 gf_inv_fsm_action_f_update_l31c17,
+			 gf_inv_fsm_action_l43c17,
+			 gf_inv_fsm_action_l47c17,
+			 gf_inv_fsm_action_f_update_l61c13,
+			 gf_inv_fsm_action_l64c13,
+			 __me_check_6,
+			 __me_check_7,
+			 __me_check_8,
+			 __me_check_9,
+			 __me_check_10,
+			 __me_check_11,
+			 gf_inv_fsm_fsm_start,
+			 gf_inv_fsm_action_f_init_l61c13,
+			 __me_check_5,
+			 gf_inv_fsm_idle_l60c9,
+			 gf_inv_fsm_start_reg__dreg_update,
+			 gf_inv_fsm_state_handle_abort,
+			 gf_inv_fsm_state_every,
+			 gf_inv_fsm_state_fired__dreg_update
+
+===============================================

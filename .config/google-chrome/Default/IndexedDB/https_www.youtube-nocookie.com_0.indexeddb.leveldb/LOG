@@ -1,0 +1,15 @@
+2022/07/15-14:20:03.820 5c2b7 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/15-14:20:03.821 5c2b7 Recovering log #4
+2022/07/15-14:20:03.821 5c2b7 Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2022/07/15-14:20:20.833 5c2b7 Level-0 table #8: started
+2022/07/15-14:20:20.836 5c2b7 Level-0 table #8: 226 bytes OK
+2022/07/15-14:20:20.840 5c2b7 Delete type=0 #4
+2022/07/15-14:20:20.841 5c2b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/15-14:20:20.841 5c2b7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 62 : 1
+2022/07/15-14:20:20.841 5c2b7 Compacting 1@1 + 1@2 files
+2022/07/15-14:20:20.843 5c2b7 Generated table #9@1: 19 keys, 551 bytes
+2022/07/15-14:20:20.844 5c2b7 Compacted 1@1 + 1@2 files => 551 bytes
+2022/07/15-14:20:20.848 5c2b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/15-14:20:20.848 5c2b7 Delete type=2 #5
+2022/07/15-14:20:20.848 5c2b7 Delete type=2 #8
+2022/07/15-14:20:20.849 5c2b7 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 62 : 1 .. (end); will stop at (end)

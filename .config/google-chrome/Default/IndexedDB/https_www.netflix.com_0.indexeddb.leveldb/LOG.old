@@ -1,0 +1,6 @@
+2022/07/30-17:41:32.826 dd7 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/30-17:41:32.826 dd7 Recovering log #492
+2022/07/30-17:41:32.841 dd7 Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000492.log 
+2022/07/30-17:45:45.884 b0a Level-0 table #497: started
+2022/07/30-17:45:45.903 b0a Level-0 table #497: 3025973 bytes OK
+2022/07/30-17:45:45.907 b0a Delete type=0 #492

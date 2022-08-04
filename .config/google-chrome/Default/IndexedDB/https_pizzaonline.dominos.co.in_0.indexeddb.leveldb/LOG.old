@@ -1,0 +1,6 @@
+2022/06/22-22:05:17.225 1170 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_pizzaonline.dominos.co.in_0.indexeddb.leveldb since it was missing.
+2022/06/22-22:05:17.232 1170 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_pizzaonline.dominos.co.in_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/22-22:06:17.565 114a Level-0 table #5: started
+2022/06/22-22:06:17.567 114a Level-0 table #5: 11366 bytes OK
+2022/06/22-22:06:17.571 114a Delete type=0 #3
+2022/06/22-22:06:17.571 114a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

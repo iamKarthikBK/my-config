@@ -1,0 +1,55 @@
+bin
+bsv_build
+common_bsv
+fabrics
+inter
+out
+out.so
+verilog
+*.swp
+*.vcd
+*.pyc
+.vscode
+output
+test_soc/sim_main.h
+test_soc/configure/__pycache__
+test_soc/benchmarks/
+test_soc/bsvwrappers
+test_soc/cache_subsystem
+test_soc/chromite
+test_soc/depends.mk
+test_soc/devices
+test_soc/obj_dir
+test_soc/makefile.inc
+test_soc/verification
+test_soc/build/
+test_soc/boot/boot.hex
+*.dump
+*.log
+
+# Bluespec build objects
+*.bo
+*.ba
+*.cxx
+*.o
+
+# Verlog artifacts
+out
+out.so
+out_v
+*.v
+
+#vscode
+.vscode
+
+# pycache
+__pycache__
+
+# html reports
+*.html
+
+# cocotb build objects
+build/
+
+# verilator build objects
+obj_dir/

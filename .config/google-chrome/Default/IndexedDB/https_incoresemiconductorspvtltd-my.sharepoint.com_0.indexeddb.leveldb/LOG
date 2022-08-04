@@ -1,0 +1,15 @@
+2022/07/13-10:23:58.060 10cf Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_incoresemiconductorspvtltd-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/13-10:23:58.060 10cf Recovering log #4
+2022/07/13-10:23:58.060 10cf Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_incoresemiconductorspvtltd-my.sharepoint.com_0.indexeddb.leveldb/000004.log 
+2022/07/13-22:45:29.144 c4f1 Level-0 table #8: started
+2022/07/13-22:45:29.146 c4f1 Level-0 table #8: 209 bytes OK
+2022/07/13-22:45:29.150 c4f1 Delete type=0 #4
+2022/07/13-22:45:29.151 c4f1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/13-22:45:29.151 c4f1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 257 : 1
+2022/07/13-22:45:29.151 c4f1 Compacting 1@1 + 1@2 files
+2022/07/13-22:45:29.154 c4f1 Generated table #9@1: 76 keys, 1308 bytes
+2022/07/13-22:45:29.154 c4f1 Compacted 1@1 + 1@2 files => 1308 bytes
+2022/07/13-22:45:29.158 c4f1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/13-22:45:29.158 c4f1 Delete type=2 #5
+2022/07/13-22:45:29.158 c4f1 Delete type=2 #8
+2022/07/13-22:45:29.159 c4f1 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 257 : 1 .. (end); will stop at (end)

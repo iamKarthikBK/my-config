@@ -1,0 +1,15 @@
+2022/07/26-14:42:04.274 4fa Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_usc-excel.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/26-14:42:04.274 4fa Recovering log #4
+2022/07/26-14:42:04.275 4fa Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_usc-excel.officeapps.live.com_0.indexeddb.leveldb/000004.log 
+2022/07/26-17:54:57.289 52ba Level-0 table #8: started
+2022/07/26-17:54:57.291 52ba Level-0 table #8: 2884 bytes OK
+2022/07/26-17:54:57.295 52ba Delete type=0 #4
+2022/07/26-17:54:57.295 52ba Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/26-17:54:57.295 52ba Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01 \x006\x00a\x007\x000\x003\x005\x007\x001\x009\x008\x00b\x00e\x004\x000\x00c\x00a\x009\x009\x003\x00e\x00e\x008\x009\x009\x005\x004\x007\x00f\x007\x00c\x00c\x00a' @ 402 : 1
+2022/07/26-17:54:57.295 52ba Compacting 1@1 + 1@2 files
+2022/07/26-17:54:57.298 52ba Generated table #9@1: 75 keys, 1423 bytes
+2022/07/26-17:54:57.298 52ba Compacted 1@1 + 1@2 files => 1423 bytes
+2022/07/26-17:54:57.302 52ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/26-17:54:57.302 52ba Delete type=2 #5
+2022/07/26-17:54:57.302 52ba Delete type=2 #8
+2022/07/26-17:54:57.303 52ba Manual compaction at level-1 from '\x00\x03\x01\x02\x01 \x006\x00a\x007\x000\x003\x005\x007\x001\x009\x008\x00b\x00e\x004\x000\x00c\x00a\x009\x009\x003\x00e\x00e\x008\x009\x009\x005\x004\x007\x00f\x007\x00c\x00c\x00a' @ 402 : 1 .. (end); will stop at (end)

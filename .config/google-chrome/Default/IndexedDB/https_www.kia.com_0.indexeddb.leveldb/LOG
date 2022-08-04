@@ -1,0 +1,6 @@
+2022/07/02-09:56:26.305 1111 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.kia.com_0.indexeddb.leveldb since it was missing.
+2022/07/02-09:56:26.310 1111 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.kia.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/02-09:56:39.270 110f Level-0 table #5: started
+2022/07/02-09:56:39.272 110f Level-0 table #5: 1144 bytes OK
+2022/07/02-09:56:39.275 110f Delete type=0 #3
+2022/07/02-09:56:39.275 110f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

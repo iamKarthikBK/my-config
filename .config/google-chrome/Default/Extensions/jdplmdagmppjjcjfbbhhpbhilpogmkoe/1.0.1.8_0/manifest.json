@@ -1,0 +1,22 @@
+{
+   "api_console_project_id": "303057623805",
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "https://overbits.herokuapp.com/rsteditor/"
+      },
+      "urls": [ "https://overbits.herokuapp.com/rsteditor/" ]
+   },
+   "container": "GOOGLE_DRIVE",
+   "default_locale": "en_US",
+   "description": "__MSG_ext_description__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkCe4niaZxBu6d6DbueiHkWAT47MX3cslkj4KgvgAoRsaNeWPA0JLKiFsPWlcVXNpj3A3opeAZYYqlkTq1OZd5VKqFUpfAtip0OQMCETheNcqHSfsYnpTodbCAzXnWO6IqOCximtgYoy67lFF3GhXKpuKkoFWEhKVGSzNn0yLEu/1o8YnhI9OCTck5j6h4vlvFmoyCSAKYseD1Bcl2Zixn/Kr7FwoLbqMIYlT5sbQDo+Yejp0+nZ87CxOIOFcOXgNQ9gMUt30kWV5ld23rpvD3DMJpDNWXWYZwTSY2gFpV2cKABovbsIVURNWGH8Xsil4QDvLieL2HXOz2FLyc+HOIQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ext_name__",
+   "permissions": [ "unlimitedStorage" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.1.8"
+}

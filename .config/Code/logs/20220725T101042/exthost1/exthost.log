@@ -1,0 +1,185 @@
+[2022-07-25 10:10:45.038] [exthost] [info] Extension host with pid 5193 started
+[2022-07-25 10:10:45.039] [exthost] [info] Skipping acquiring lock for /home/karthik/.config/Code/User/workspaceStorage/10c836c5eb303e1c1c67eef56ffe1235.
+[2022-07-25 10:10:45.217] [exthost] [info] ExtensionService#_doActivateExtension trond-snekvik.simple-rst, startup: false, activationEvent: 'onLanguage:restructuredtext'
+[2022-07-25 10:10:45.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-25 10:10:45.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-25 10:10:45.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-25 10:10:45.235] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-25 10:10:45.237] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-07-25 10:10:45.363] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: true, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+[2022-07-25 10:10:45.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-25 10:10:45.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-25 10:10:46.079] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'api', root cause: ms-vscode.makefile-tools
+[2022-07-25 10:10:46.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-25 10:10:46.582] [exthost] [info] Eager extensions activated
+[2022-07-25 10:10:46.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 10:10:46.605] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 10:10:46.606] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 10:10:46.614] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 10:10:46.648] [exthost] [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 10:10:46.740] [exthost] [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 10:10:47.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-25 10:10:47.026] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-25 10:10:47.048] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-25 10:16:15.251] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:16:22.982] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:16:34.573] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:17:08.355] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-07-25 10:17:08.356] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.v (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:22051)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15034)
+    at i.fire (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15075)
+    at c.abort (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15784)
+    at /home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:8:414422
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6677)
+    at C.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:7218)
+    at Object.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12151)
+    at s._receiveCancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12878)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:11198)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 10:44:33.759] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-07-25 10:44:33.759] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.v (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:22051)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15034)
+    at i.fire (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15075)
+    at c.abort (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15784)
+    at /home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:8:414422
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6677)
+    at C.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:7218)
+    at Object.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12151)
+    at s._receiveCancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12878)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:11198)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 10:46:29.981] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:50:59.879] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:56:28.620] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:57:01.300] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:57:43.946] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:58:07.300] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 10:58:28.725] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:18:49.102] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 11:47:28.956] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 12:32:13.661] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:26:02.591] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:26:02.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-07-25 13:26:02.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-07-25 13:26:02.944] [exthost] [info] ExtensionService#_doActivateExtension DavidAnson.vscode-markdownlint, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-07-25 13:26:03.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-07-25 13:27:02.977] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 13:27:13.336] [exthost] [error] [GitHub.copilot] provider FAILED
+[2022-07-25 13:27:13.337] [exthost] [error] AbortError: The operation was aborted.
+    at EventEmitter.v (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:22051)
+    at EventEmitter.emit (node:events:390:28)
+    at i.dispatchEvent (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15034)
+    at i.fire (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15075)
+    at c.abort (/home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:2:15784)
+    at /home/karthik/.vscode/extensions/github.copilot-1.34.6280/dist/extension.js:8:414422
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at A.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:6677)
+    at C.cancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:7218)
+    at Object.H (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12151)
+    at s._receiveCancel (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12878)
+    at s._receiveOneMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:11198)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34863
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at a.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19025)
+    at r._receiveMessage (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23606)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21140
+    at g.invoke (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at b.deliver (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15856)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14986
+    at Socket.R (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-07-25 16:37:41.774] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:37:43.176] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:37:55.811] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:37:55.839] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-25 16:37:55.979] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-25 16:37:56.366] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-07-25 16:37:57.903] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:37:59.825] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:38:13.899] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:38:14.522] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:38:27.936] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 604
+[2022-07-25 16:38:29.881] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 604
+[2022-07-25 16:38:38.233] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:38:44.560] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 604
+[2022-07-25 16:39:46.492] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:40:03.858] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:40:07.229] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:40:34.338] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:40:58.005] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:41:12.753] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:41:34.599] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:41:40.495] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:41:46.916] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:41:51.180] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:41:55.373] [exthost] [warning] TextEditor is closed/disposed
+[2022-07-25 16:42:04.640] [exthost] [warning] TextEditor is closed/disposed

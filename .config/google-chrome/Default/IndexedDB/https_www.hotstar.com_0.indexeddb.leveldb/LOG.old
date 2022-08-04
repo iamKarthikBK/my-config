@@ -1,0 +1,15 @@
+2022/07/28-21:39:35.526 ea50 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/28-21:39:35.526 ea50 Recovering log #11
+2022/07/28-21:39:35.526 ea50 Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_www.hotstar.com_0.indexeddb.leveldb/000011.log 
+2022/07/28-21:39:37.959 ea50 Level-0 table #16: started
+2022/07/28-21:39:37.961 ea50 Level-0 table #16: 209 bytes OK
+2022/07/28-21:39:37.965 ea50 Delete type=0 #11
+2022/07/28-21:39:37.965 ea50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/07/28-21:39:37.965 ea50 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 10 : 1
+2022/07/28-21:39:37.965 ea50 Compacting 1@1 + 1@2 files
+2022/07/28-21:39:37.967 ea50 Generated table #17@1: 5 keys, 243 bytes
+2022/07/28-21:39:37.967 ea50 Compacted 1@1 + 1@2 files => 243 bytes
+2022/07/28-21:39:37.970 ea50 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/07/28-21:39:37.970 ea50 Delete type=2 #13
+2022/07/28-21:39:37.970 ea50 Delete type=2 #16
+2022/07/28-21:39:37.970 ea50 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 10 : 1 .. (end); will stop at (end)

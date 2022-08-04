@@ -1,0 +1,6 @@
+2022/07/06-10:23:12.755 db8 Creating DB /home/karthik/.config/google-chrome/Default/IndexedDB/https_vscode.dev_0.indexeddb.leveldb since it was missing.
+2022/07/06-10:23:12.760 db8 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_vscode.dev_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/06-10:23:25.693 db8 Level-0 table #5: started
+2022/07/06-10:23:25.698 db8 Level-0 table #5: 57371 bytes OK
+2022/07/06-10:23:25.702 db8 Delete type=0 #3
+2022/07/06-10:23:25.702 db8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

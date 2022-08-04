@@ -1,0 +1,8 @@
+{
+   "ext_description": {
+      "message": "Free RST (reStructuredText) viewer, editor for your browser. It allows you to write, compile, preview RST docs and generate a PDF."
+   },
+   "ext_name": {
+      "message": "RST (reStructuredText) Viewer and Editor"
+   }
+}

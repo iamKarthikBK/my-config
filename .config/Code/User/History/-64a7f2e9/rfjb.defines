@@ -1,0 +1,34 @@
+`define Num_Slaves 7
+
+`define Memory_slave_num 0
+`define BootRom_slave_num 1
+`define APB_cluster_slave_num 2
+`define Sign_slave_num 3
+`define Err_slave_num 4
+`define AES_slave_num 5 
+`define ECC_slave_num 6 
+
+// master numbers on fabric
+// slave numbers of fabric
+
+`define Uart_slave_num 0
+`define Clint_slave_num 1
+`define Debug_slave_num 2
+`define Apb_err_slave_num 3
+
+`define MemoryBase  'h8000_0000
+`define MemoryEnd   'h8FFF_FFFF
+`define BootRomBase 'h0000_1000
+`define BootRomEnd  'h0001_0FFF
+`define UartBase    'h11300
+`define UartEnd     'h11340
+`define ClintBase   'h0200_0000
+`define ClintEnd    'h020B_FFFF
+`define SignBase    'h0002_0000
+`define SignEnd     'h0002_000c
+`define DebugBase   'h0000_0100
+`define DebugEnd    'h0000_010F
+`define AESBase			'h0005_0000
+`define AESEnd			'h0005_00FF
+`define ECCBase			'h0005_0100
+`define ECCEnd			'h0005_01FF

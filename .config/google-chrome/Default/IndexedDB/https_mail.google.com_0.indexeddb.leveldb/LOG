@@ -1,0 +1,9 @@
+2022/08/04-09:59:44.055 517 Reusing MANIFEST /home/karthik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/04-09:59:44.055 517 Recovering log #233
+2022/08/04-09:59:44.058 517 Reusing old log /home/karthik/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000233.log 
+2022/08/04-09:59:48.018 51a Compacting 1@1 + 1@2 files
+2022/08/04-09:59:48.032 51a Generated table #236@1: 287 keys, 668114 bytes
+2022/08/04-09:59:48.032 51a Compacted 1@1 + 1@2 files => 668114 bytes
+2022/08/04-09:59:48.040 51a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/04-09:59:48.040 51a Delete type=2 #231
+2022/08/04-09:59:48.040 51a Delete type=2 #234

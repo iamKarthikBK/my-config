@@ -1,0 +1,19 @@
+[2022-08-03T06:59:41.060Z] Log level: Info
+[2022-08-03T06:59:41.061Z] [info] Validating found git in: git
+[2022-08-03T06:59:41.103Z] [info] Using git 2.37.1 from git
+[2022-08-03T06:59:41.119Z] > git rev-parse --show-toplevel [5ms]
+[2022-08-03T06:59:41.127Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2022-08-03T06:59:41.130Z] [info] Open repository: /home/karthik/incore/crypto-accel
+[2022-08-03T06:59:41.141Z] > git status -z -uall [5ms]
+[2022-08-03T06:59:41.146Z] > git symbolic-ref --short HEAD [2ms]
+[2022-08-03T06:59:41.150Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/2-add-rsa-accelerator refs/remotes/2-add-rsa-accelerator [1ms]
+[2022-08-03T06:59:41.165Z] > git remote --verbose [1ms]
+[2022-08-03T06:59:41.170Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-08-03T06:59:41.176Z] > git config --get commit.template [1ms]
+[2022-08-03T06:59:41.739Z] > git show --textconv :rsa/hw/source/adder.bsv [19ms]
+[2022-08-03T06:59:41.739Z] > git show --textconv :rsa/hw/src/mmm_nomul2.bsv [14ms]
+[2022-08-03T06:59:41.775Z] > git ls-files --stage -- /home/karthik/incore/crypto-accel/rsa/hw/src/mmm_nomul2.bsv [39ms]
+[2022-08-03T06:59:41.783Z] > git ls-files --stage -- /home/karthik/incore/crypto-accel/rsa/hw/source/adder.bsv [52ms]
+[2022-08-03T06:59:41.793Z] > git cat-file -s aebc2b3bada1c01ee62dab95bd6bb4d74704da21 [2ms]
+[2022-08-03T06:59:41.794Z] > git cat-file -s 8abcb5de61577a0e1558601e700b2ea3a40cff15 [11ms]
+[2022-08-03T06:59:43.100Z] > git check-ignore -v -z --stdin [15ms]
