@@ -1,8 +1,0 @@
-[2022-08-02 15:59:54.029] [GIT  ] [/home/karthik/incore/crypto-accel] git diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- rsa/hw/src/mmm_nomul2.bsv • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.diff=false diff --no-ext-diff --minimal -U0 -M --diff-filter=M 0000000000000000000000000000000000000000- -- rsa/hw/src/mmm_nomul2.bsv • bad revision '0000000000000000000000000000000000000000-' • 26 ms
-
-[2022-08-02 18:18:31.628] [GIT  ] [/home/karthik/incore/crypto-accel] git log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:rsa/hw/source/adder.bsv • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:rsa/hw/source/adder.bsv • There is no path rsa/hw/source/adder.bsv in the commit • 117 ms
-
-[2022-08-02 18:18:31.629] /home/karthik/.vscode/extensions/eamodio.gitlens-12.1.2/dist/webpack:/gitlens/src/env/node/git/shell.ts:210:6
-Error: Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 2,2:rsa/hw/source/adder.bsv
-fatal: There is no path rsa/hw/source/adder.bsv in the commit
-

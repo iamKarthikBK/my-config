@@ -1,5 +1,0 @@
-package RegArray;
-
-    
-
-endpackage: RegArray

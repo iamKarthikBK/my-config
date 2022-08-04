@@ -1,8 +1,0 @@
-[2022-08-02 20:31:47.410] [sharedprocess] [info] Starting worker process with pid 5538 (type: fileWatcher, window: 1).
-[2022-08-02 20:31:50.040] [sharedprocess] [info] Getting Manifest... github.copilot
-[2022-08-02 20:31:51.027] [sharedprocess] [info] Installing extension: github.copilot
-[2022-08-02 20:31:52.921] [sharedprocess] [info] Downloaded extension: github.copilot /home/karthik/.config/Code/CachedExtensionVSIXs/github.copilot-1.37.6378
-[2022-08-02 20:31:52.981] [sharedprocess] [info] Extracted extension to /home/karthik/.vscode/extensions/.c592a413-551f-48c6-b8f6-a50532adcc6c: github.copilot
-[2022-08-02 20:31:52.985] [sharedprocess] [info] Renamed to /home/karthik/.vscode/extensions/github.copilot-1.37.6378
-[2022-08-02 20:31:52.986] [sharedprocess] [info] Extracting completed. github.copilot
-[2022-08-02 20:31:52.989] [sharedprocess] [info] Extension installed successfully: github.copilot
